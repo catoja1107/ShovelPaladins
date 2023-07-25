@@ -1,0 +1,1 @@
+with (oPlayer)key_down = 1;
