@@ -22,11 +22,24 @@
 
 ## Quick start
 
-Some text
+- Step-1: Download GameMaker Studio in your PC and download the compressed App file and unzip it.
+  
+- Step-2: Open the file named "ShovelPaladin" and run the app. You can choose the emulator of your choice from top right corner in the IDE.
+  
+- Step-3: The Game will start first with splash screen then you can Click on "Menu" button to go to menu screen.
+  
+- Step-4: From there, you can choose various options like "Start" -- which will take you to "Maps" Screen where you can choose map of your liking and start playing.
+  
+- Step-5: You can click on "Achievements" to see all the trophy you have achieved till now along with some that are yet-to-be achieved.
+  
+- Step-6: When you click on "Leaderboard" you will be able to see your score and your ranking compared to others.
+  
+- Step-7: The "Shop" button will take you to "Shop Screen" where you can buy items to increase you HP to defeat diffult enemies.
+  
+- Step-8: In "Settings", you can enter or change your name will be automatically reflected in leaderboard. You can adjust Music and SFX Volume of your game.
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+
+OUTPUT : A Game called "Shovel Paladins". 
 
 ## Status
 
