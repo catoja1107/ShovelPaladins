@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://teams.microsoft.com/l/team/19%3afakFCWQzJnfLXJmGY3YGUhfJlI7GcWj8L9jrewltRYg1%40thread.tacv2/conversations?groupId=1fcb4710-927f-4bbf-8c67-34e7ac23facc&tenantId=515ad73d-8d5e-4169-895c-9789dc742a70">
-    <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Robot-Download-Free-PNG.png" alt="Logo" width=72 height=100>
+    <img src="https://external-preview.redd.it/shovel-knight-roleplay-discord-server-v0-B6YaHccZ-qPuw_5NYO6E7keP8F4-DnN6ViZOxkBxs5k.jpg?auto=webp&s=8cfb8e75390fdad9589c9aafe5ff7d397e4c976f" alt="Logo" width=72 height=100>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Shovel Paladins</h3>
 
   <p align="center">
     CSC4360 Team 06 App
