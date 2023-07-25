@@ -17,7 +17,6 @@
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Contributing](#contributing)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
@@ -32,18 +31,18 @@ Some text
 
 ## Status
 
-Here goes all the budgets
+[Beta Release via Google Play](https://play.google.com/store/apps/details?id=com.shovelteam.shovelpaladin)
 
 ## What's included
 
+- Project repository
+- Pre-built APK
 
 ## Creators
 
-**Creator 1**
-
-- <https://github.com/catoja1107>
-
-
+- [James Cato](https://github.com/catoja1107)
+- [Sriniha Mourila](https://github.com/Sriniha)
+- [Huy Truong](https://github.com/huygiatrng)
 
 ## Copyright and license
 
